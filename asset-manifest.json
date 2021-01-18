@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/guess-the-color/static/css/main.a235db26.chunk.css",
-    "main.js": "/guess-the-color/static/js/main.c289baf6.chunk.js",
-    "main.js.map": "/guess-the-color/static/js/main.c289baf6.chunk.js.map",
+    "main.js": "/guess-the-color/static/js/main.b743c0a4.chunk.js",
+    "main.js.map": "/guess-the-color/static/js/main.b743c0a4.chunk.js.map",
     "runtime-main.js": "/guess-the-color/static/js/runtime-main.06385042.js",
     "runtime-main.js.map": "/guess-the-color/static/js/runtime-main.06385042.js.map",
     "static/css/2.1f208231.chunk.css": "/guess-the-color/static/css/2.1f208231.chunk.css",
@@ -13,13 +13,15 @@
     "index.html": "/guess-the-color/index.html",
     "static/css/2.1f208231.chunk.css.map": "/guess-the-color/static/css/2.1f208231.chunk.css.map",
     "static/css/main.a235db26.chunk.css.map": "/guess-the-color/static/css/main.a235db26.chunk.css.map",
-    "static/js/2.04a376dc.chunk.js.LICENSE.txt": "/guess-the-color/static/js/2.04a376dc.chunk.js.LICENSE.txt"
+    "static/js/2.04a376dc.chunk.js.LICENSE.txt": "/guess-the-color/static/js/2.04a376dc.chunk.js.LICENSE.txt",
+    "static/media/checkmark.4ea2710b.webp": "/guess-the-color/static/media/checkmark.4ea2710b.webp",
+    "static/media/xmark.9141b1dd.png": "/guess-the-color/static/media/xmark.9141b1dd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.06385042.js",
     "static/css/2.1f208231.chunk.css",
     "static/js/2.04a376dc.chunk.js",
     "static/css/main.a235db26.chunk.css",
-    "static/js/main.c289baf6.chunk.js"
+    "static/js/main.b743c0a4.chunk.js"
   ]
 }

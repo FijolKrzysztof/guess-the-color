@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/guess-the-color/static/css/main.a235db26.chunk.css",
-    "main.js": "/guess-the-color/static/js/main.b743c0a4.chunk.js",
-    "main.js.map": "/guess-the-color/static/js/main.b743c0a4.chunk.js.map",
+    "main.js": "/guess-the-color/static/js/main.27f3a09b.chunk.js",
+    "main.js.map": "/guess-the-color/static/js/main.27f3a09b.chunk.js.map",
     "runtime-main.js": "/guess-the-color/static/js/runtime-main.06385042.js",
     "runtime-main.js.map": "/guess-the-color/static/js/runtime-main.06385042.js.map",
     "static/css/2.1f208231.chunk.css": "/guess-the-color/static/css/2.1f208231.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.1f208231.chunk.css",
     "static/js/2.04a376dc.chunk.js",
     "static/css/main.a235db26.chunk.css",
-    "static/js/main.b743c0a4.chunk.js"
+    "static/js/main.27f3a09b.chunk.js"
   ]
 }
